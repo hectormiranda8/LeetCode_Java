@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/GoalParserInterpretation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JewelsAndStones" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NumOfGoodPairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReduceToZero" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ShuffleString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SmallerThanCurrent" isTestSource="false" />
     </content>
