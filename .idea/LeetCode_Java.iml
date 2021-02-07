@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/RichestCustomerWealth" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/RunningSum1D" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ShuffleTheArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NumOfGoodPairs" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
